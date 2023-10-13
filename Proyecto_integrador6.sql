@@ -1,3 +1,4 @@
+--- proyecto Integrador6
 CREATE TABLE sucursal (
 	id SERIAL PRIMARY KEY,
 	nombre TEXT,
